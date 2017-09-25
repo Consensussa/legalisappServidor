@@ -1,0 +1,8 @@
+[13-Jun-2017 03:29:27 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-Jun-2017 03:29:27 America/Bogota] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/legalisapp/public_html/legalisappServidor/vendor/nikic/fast-route/test/RouteParser/StdTest.php on line 5
+[13-Jun-2017 03:29:27 America/Bogota] PHP Stack trace:
+[13-Jun-2017 03:29:27 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/nikic/fast-route/test/RouteParser/StdTest.php:0
+[26-Jun-2017 13:49:26 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Jun-2017 13:49:26 America/Bogota] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/legalisapp/public_html/legalisappServidor/vendor/nikic/fast-route/test/RouteParser/StdTest.php on line 5
+[26-Jun-2017 13:49:26 America/Bogota] PHP Stack trace:
+[26-Jun-2017 13:49:26 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/nikic/fast-route/test/RouteParser/StdTest.php:0

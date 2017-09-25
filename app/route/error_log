@@ -1,0 +1,287 @@
+[13-May-2017 09:41:26 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 09:41:28 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[13-May-2017 09:41:28 America/Bogota] PHP Stack trace:
+[13-May-2017 09:41:28 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[13-May-2017 09:41:28 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[13-May-2017 09:41:28 America/Bogota] PHP Stack trace:
+[13-May-2017 09:41:28 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[13-May-2017 09:52:11 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 09:52:11 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[13-May-2017 09:52:11 America/Bogota] PHP Stack trace:
+[13-May-2017 09:52:11 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[13-May-2017 09:52:11 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[13-May-2017 09:52:11 America/Bogota] PHP Stack trace:
+[13-May-2017 09:52:11 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[13-May-2017 09:59:16 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 09:59:16 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php on line 13
+[13-May-2017 09:59:16 America/Bogota] PHP Stack trace:
+[13-May-2017 09:59:16 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php:0
+[13-May-2017 09:59:16 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php on line 13
+[13-May-2017 09:59:16 America/Bogota] PHP Stack trace:
+[13-May-2017 09:59:16 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php:0
+[13-May-2017 10:02:50 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 10:02:50 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php on line 11
+[13-May-2017 10:02:50 America/Bogota] PHP Stack trace:
+[13-May-2017 10:02:50 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php:0
+[13-May-2017 10:02:50 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php on line 11
+[13-May-2017 10:02:50 America/Bogota] PHP Stack trace:
+[13-May-2017 10:02:50 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php:0
+[13-May-2017 10:04:39 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 10:04:39 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php on line 11
+[13-May-2017 10:04:39 America/Bogota] PHP Stack trace:
+[13-May-2017 10:04:39 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php:0
+[13-May-2017 10:04:39 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php on line 11
+[13-May-2017 10:04:39 America/Bogota] PHP Stack trace:
+[13-May-2017 10:04:39 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php:0
+[13-May-2017 10:13:32 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 10:13:32 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php on line 11
+[13-May-2017 10:13:32 America/Bogota] PHP Stack trace:
+[13-May-2017 10:13:32 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php:0
+[13-May-2017 10:13:32 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php on line 11
+[13-May-2017 10:13:32 America/Bogota] PHP Stack trace:
+[13-May-2017 10:13:32 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php:0
+[13-May-2017 10:17:06 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 10:17:06 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php on line 13
+[13-May-2017 10:17:06 America/Bogota] PHP Stack trace:
+[13-May-2017 10:17:06 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php:0
+[13-May-2017 10:17:06 America/Bogota] PHP Fatal error:  Call to a member function post() on null in /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php on line 13
+[13-May-2017 10:17:06 America/Bogota] PHP Stack trace:
+[13-May-2017 10:17:06 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php:0
+[13-May-2017 10:20:40 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 10:20:40 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php on line 41
+[13-May-2017 10:20:40 America/Bogota] PHP Stack trace:
+[13-May-2017 10:20:40 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php:0
+[13-May-2017 10:20:40 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php on line 41
+[13-May-2017 10:20:40 America/Bogota] PHP Stack trace:
+[13-May-2017 10:20:40 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php:0
+[13-May-2017 10:56:21 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 10:56:21 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php on line 13
+[13-May-2017 10:56:21 America/Bogota] PHP Stack trace:
+[13-May-2017 10:56:21 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php:0
+[13-May-2017 10:56:21 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php on line 13
+[13-May-2017 10:56:21 America/Bogota] PHP Stack trace:
+[13-May-2017 10:56:21 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php:0
+[13-May-2017 11:15:58 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 11:15:59 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php on line 11
+[13-May-2017 11:15:59 America/Bogota] PHP Stack trace:
+[13-May-2017 11:15:59 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php:0
+[13-May-2017 11:15:59 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php on line 11
+[13-May-2017 11:15:59 America/Bogota] PHP Stack trace:
+[13-May-2017 11:15:59 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php:0
+[13-May-2017 15:40:29 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 15:40:29 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[13-May-2017 15:40:29 America/Bogota] PHP Stack trace:
+[13-May-2017 15:40:29 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[13-May-2017 15:40:29 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[13-May-2017 15:40:29 America/Bogota] PHP Stack trace:
+[13-May-2017 15:40:29 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[13-May-2017 15:54:50 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 15:54:50 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[13-May-2017 15:54:50 America/Bogota] PHP Stack trace:
+[13-May-2017 15:54:50 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[13-May-2017 15:54:50 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[13-May-2017 15:54:50 America/Bogota] PHP Stack trace:
+[13-May-2017 15:54:50 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[13-May-2017 17:59:05 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 17:59:06 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php on line 13
+[13-May-2017 17:59:06 America/Bogota] PHP Stack trace:
+[13-May-2017 17:59:06 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php:0
+[13-May-2017 17:59:06 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php on line 13
+[13-May-2017 17:59:06 America/Bogota] PHP Stack trace:
+[13-May-2017 17:59:06 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php:0
+[13-May-2017 18:13:27 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 18:13:28 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php on line 11
+[13-May-2017 18:13:28 America/Bogota] PHP Stack trace:
+[13-May-2017 18:13:28 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php:0
+[13-May-2017 18:13:28 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php on line 11
+[13-May-2017 18:13:28 America/Bogota] PHP Stack trace:
+[13-May-2017 18:13:28 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php:0
+[13-May-2017 18:20:41 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 18:20:41 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php on line 11
+[13-May-2017 18:20:41 America/Bogota] PHP Stack trace:
+[13-May-2017 18:20:41 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php:0
+[13-May-2017 18:20:41 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php on line 11
+[13-May-2017 18:20:41 America/Bogota] PHP Stack trace:
+[13-May-2017 18:20:41 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php:0
+[13-May-2017 18:29:38 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 18:29:38 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php on line 11
+[13-May-2017 18:29:38 America/Bogota] PHP Stack trace:
+[13-May-2017 18:29:38 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php:0
+[13-May-2017 18:29:38 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php on line 11
+[13-May-2017 18:29:38 America/Bogota] PHP Stack trace:
+[13-May-2017 18:29:38 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php:0
+[13-May-2017 18:42:17 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 18:42:17 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php on line 13
+[13-May-2017 18:42:17 America/Bogota] PHP Stack trace:
+[13-May-2017 18:42:17 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php:0
+[13-May-2017 18:42:17 America/Bogota] PHP Fatal error:  Call to a member function post() on null in /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php on line 13
+[13-May-2017 18:42:17 America/Bogota] PHP Stack trace:
+[13-May-2017 18:42:17 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php:0
+[13-May-2017 19:02:07 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 19:02:07 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php on line 41
+[13-May-2017 19:02:07 America/Bogota] PHP Stack trace:
+[13-May-2017 19:02:07 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php:0
+[13-May-2017 19:02:07 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php on line 41
+[13-May-2017 19:02:07 America/Bogota] PHP Stack trace:
+[13-May-2017 19:02:07 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php:0
+[13-May-2017 19:11:03 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 19:11:03 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php on line 13
+[13-May-2017 19:11:03 America/Bogota] PHP Stack trace:
+[13-May-2017 19:11:03 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php:0
+[13-May-2017 19:11:03 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php on line 13
+[13-May-2017 19:11:03 America/Bogota] PHP Stack trace:
+[13-May-2017 19:11:03 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php:0
+[13-May-2017 19:20:05 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 19:20:05 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php on line 11
+[13-May-2017 19:20:05 America/Bogota] PHP Stack trace:
+[13-May-2017 19:20:05 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php:0
+[13-May-2017 19:20:05 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php on line 11
+[13-May-2017 19:20:05 America/Bogota] PHP Stack trace:
+[13-May-2017 19:20:05 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php:0
+[13-May-2017 20:50:02 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 20:50:03 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[13-May-2017 20:50:03 America/Bogota] PHP Stack trace:
+[13-May-2017 20:50:03 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[13-May-2017 20:50:03 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[13-May-2017 20:50:03 America/Bogota] PHP Stack trace:
+[13-May-2017 20:50:03 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[14-May-2017 01:30:07 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 01:30:07 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[14-May-2017 01:30:07 America/Bogota] PHP Stack trace:
+[14-May-2017 01:30:07 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[14-May-2017 01:30:07 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[14-May-2017 01:30:07 America/Bogota] PHP Stack trace:
+[14-May-2017 01:30:07 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[14-May-2017 01:34:19 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 01:34:19 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php on line 13
+[14-May-2017 01:34:19 America/Bogota] PHP Stack trace:
+[14-May-2017 01:34:19 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php:0
+[14-May-2017 01:34:19 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php on line 13
+[14-May-2017 01:34:19 America/Bogota] PHP Stack trace:
+[14-May-2017 01:34:19 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php:0
+[14-May-2017 01:57:26 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 01:57:27 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php on line 11
+[14-May-2017 01:57:27 America/Bogota] PHP Stack trace:
+[14-May-2017 01:57:27 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php:0
+[14-May-2017 01:57:27 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php on line 11
+[14-May-2017 01:57:27 America/Bogota] PHP Stack trace:
+[14-May-2017 01:57:27 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php:0
+[14-May-2017 01:59:31 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 01:59:31 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php on line 11
+[14-May-2017 01:59:31 America/Bogota] PHP Stack trace:
+[14-May-2017 01:59:31 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php:0
+[14-May-2017 01:59:31 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php on line 11
+[14-May-2017 01:59:31 America/Bogota] PHP Stack trace:
+[14-May-2017 01:59:31 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php:0
+[14-May-2017 02:12:07 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 02:12:07 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php on line 11
+[14-May-2017 02:12:07 America/Bogota] PHP Stack trace:
+[14-May-2017 02:12:07 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php:0
+[14-May-2017 02:12:07 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php on line 11
+[14-May-2017 02:12:07 America/Bogota] PHP Stack trace:
+[14-May-2017 02:12:07 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php:0
+[14-May-2017 02:22:40 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 02:22:40 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php on line 13
+[14-May-2017 02:22:40 America/Bogota] PHP Stack trace:
+[14-May-2017 02:22:40 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php:0
+[14-May-2017 02:22:40 America/Bogota] PHP Fatal error:  Call to a member function post() on null in /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php on line 13
+[14-May-2017 02:22:40 America/Bogota] PHP Stack trace:
+[14-May-2017 02:22:40 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php:0
+[14-May-2017 03:42:25 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 03:42:25 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[14-May-2017 03:42:25 America/Bogota] PHP Stack trace:
+[14-May-2017 03:42:25 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[14-May-2017 03:42:25 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[14-May-2017 03:42:25 America/Bogota] PHP Stack trace:
+[14-May-2017 03:42:25 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[14-May-2017 03:46:37 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 03:46:37 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[14-May-2017 03:46:37 America/Bogota] PHP Stack trace:
+[14-May-2017 03:46:37 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[14-May-2017 03:46:37 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[14-May-2017 03:46:37 America/Bogota] PHP Stack trace:
+[14-May-2017 03:46:37 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[14-May-2017 04:07:39 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 04:07:39 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php on line 13
+[14-May-2017 04:07:39 America/Bogota] PHP Stack trace:
+[14-May-2017 04:07:39 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php:0
+[14-May-2017 04:07:39 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php on line 13
+[14-May-2017 04:07:39 America/Bogota] PHP Stack trace:
+[14-May-2017 04:07:39 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/factura_route.php:0
+[14-May-2017 04:22:22 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 04:22:22 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php on line 41
+[14-May-2017 04:22:22 America/Bogota] PHP Stack trace:
+[14-May-2017 04:22:22 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php:0
+[14-May-2017 04:22:22 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php on line 41
+[14-May-2017 04:22:22 America/Bogota] PHP Stack trace:
+[14-May-2017 04:22:22 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/requisicion_route.php:0
+[14-May-2017 04:26:31 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 04:26:31 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php on line 13
+[14-May-2017 04:26:31 America/Bogota] PHP Stack trace:
+[14-May-2017 04:26:31 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php:0
+[14-May-2017 04:26:31 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php on line 13
+[14-May-2017 04:26:31 America/Bogota] PHP Stack trace:
+[14-May-2017 04:26:31 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php:0
+[14-May-2017 04:49:40 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 04:49:40 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php on line 11
+[14-May-2017 04:49:40 America/Bogota] PHP Stack trace:
+[14-May-2017 04:49:40 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php:0
+[14-May-2017 04:49:40 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php on line 11
+[14-May-2017 04:49:40 America/Bogota] PHP Stack trace:
+[14-May-2017 04:49:40 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php:0
+[14-May-2017 23:28:10 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-May-2017 23:28:10 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[14-May-2017 23:28:10 America/Bogota] PHP Stack trace:
+[14-May-2017 23:28:10 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[14-May-2017 23:28:10 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php on line 13
+[14-May-2017 23:28:10 America/Bogota] PHP Stack trace:
+[14-May-2017 23:28:10 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/gasto_route.php:0
+[15-May-2017 00:12:27 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-May-2017 00:12:27 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[15-May-2017 00:12:27 America/Bogota] PHP Stack trace:
+[15-May-2017 00:12:27 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[15-May-2017 00:12:27 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php on line 14
+[15-May-2017 00:12:27 America/Bogota] PHP Stack trace:
+[15-May-2017 00:12:27 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/perfil_route.php:0
+[15-May-2017 00:15:10 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-May-2017 00:15:10 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php on line 11
+[15-May-2017 00:15:10 America/Bogota] PHP Stack trace:
+[15-May-2017 00:15:10 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php:0
+[15-May-2017 00:15:10 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php on line 11
+[15-May-2017 00:15:10 America/Bogota] PHP Stack trace:
+[15-May-2017 00:15:10 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/company_route.php:0
+[15-May-2017 01:05:02 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-May-2017 01:05:02 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php on line 11
+[15-May-2017 01:05:02 America/Bogota] PHP Stack trace:
+[15-May-2017 01:05:02 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php:0
+[15-May-2017 01:05:02 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php on line 11
+[15-May-2017 01:05:02 America/Bogota] PHP Stack trace:
+[15-May-2017 01:05:02 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/tipo_gto_route.php:0
+[15-May-2017 01:41:04 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-May-2017 01:41:04 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php on line 11
+[15-May-2017 01:41:04 America/Bogota] PHP Stack trace:
+[15-May-2017 01:41:04 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php:0
+[15-May-2017 01:41:04 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php on line 11
+[15-May-2017 01:41:04 America/Bogota] PHP Stack trace:
+[15-May-2017 01:41:04 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/grupo_gto_route.php:0
+[15-May-2017 02:03:07 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-May-2017 02:03:07 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php on line 13
+[15-May-2017 02:03:07 America/Bogota] PHP Stack trace:
+[15-May-2017 02:03:07 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php:0
+[15-May-2017 02:03:07 America/Bogota] PHP Fatal error:  Call to a member function post() on null in /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php on line 13
+[15-May-2017 02:03:07 America/Bogota] PHP Stack trace:
+[15-May-2017 02:03:07 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/metadatos_route.php:0
+[15-May-2017 02:39:05 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-May-2017 02:39:05 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php on line 13
+[15-May-2017 02:39:05 America/Bogota] PHP Stack trace:
+[15-May-2017 02:39:05 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php:0
+[15-May-2017 02:39:05 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php on line 13
+[15-May-2017 02:39:05 America/Bogota] PHP Stack trace:
+[15-May-2017 02:39:05 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/legalizacion_route.php:0
+[15-May-2017 02:41:47 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-May-2017 02:41:47 America/Bogota] PHP Notice:  Undefined variable: app in /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php on line 11
+[15-May-2017 02:41:47 America/Bogota] PHP Stack trace:
+[15-May-2017 02:41:47 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php:0
+[15-May-2017 02:41:47 America/Bogota] PHP Fatal error:  Call to a member function get() on null in /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php on line 11
+[15-May-2017 02:41:47 America/Bogota] PHP Stack trace:
+[15-May-2017 02:41:47 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/app/route/leg_confmovil_route.php:0

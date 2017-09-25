@@ -1,0 +1,16 @@
+[12-May-2017 12:18:16 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 00:33:36 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 01:01:10 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 01:18:04 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 01:19:31 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 01:33:20 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 01:50:16 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 02:07:08 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 02:14:48 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 02:19:25 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[13-May-2017 02:26:59 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[18-Sep-2017 10:12:01 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_zip.dll' - /usr/php/54/usr/lib64/php/modules/php_zip.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2017 10:12:07 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_zip.dll' - /usr/php/54/usr/lib64/php/modules/php_zip.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2017 10:25:17 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_zip.dll' - /usr/php/54/usr/lib64/php/modules/php_zip.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2017 10:29:37 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_zip.dll' - /usr/php/54/usr/lib64/php/modules/php_zip.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Sep-2017 10:29:50 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_zip.dll' - /usr/php/54/usr/lib64/php/modules/php_zip.dll: cannot open shared object file: No such file or directory in Unknown on line 0

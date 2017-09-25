@@ -1,0 +1,8 @@
+[25-May-2017 12:14:39 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[25-May-2017 12:14:39 America/Bogota] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Formatter/JsonFormatterTest.php on line 18
+[25-May-2017 12:14:39 America/Bogota] PHP Stack trace:
+[25-May-2017 12:14:39 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Formatter/JsonFormatterTest.php:0
+[31-May-2017 09:57:56 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[31-May-2017 09:57:56 America/Bogota] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Formatter/ElasticaFormatterTest.php on line 17
+[31-May-2017 09:57:56 America/Bogota] PHP Stack trace:
+[31-May-2017 09:57:56 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Formatter/ElasticaFormatterTest.php:0

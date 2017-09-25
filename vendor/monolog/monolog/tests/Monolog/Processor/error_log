@@ -1,0 +1,16 @@
+[25-May-2017 12:15:28 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[25-May-2017 12:15:28 America/Bogota] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Processor/PsrLogMessageProcessorTest.php on line 15
+[25-May-2017 12:15:28 America/Bogota] PHP Stack trace:
+[25-May-2017 12:15:28 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Processor/PsrLogMessageProcessorTest.php:0
+[25-May-2017 12:16:40 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[25-May-2017 12:16:40 America/Bogota] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Processor/GitProcessorTest.php on line 17
+[25-May-2017 12:16:40 America/Bogota] PHP Stack trace:
+[25-May-2017 12:16:40 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Processor/GitProcessorTest.php:0
+[25-May-2017 12:18:23 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[25-May-2017 12:18:24 America/Bogota] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Processor/WebProcessorTest.php on line 17
+[25-May-2017 12:18:24 America/Bogota] PHP Stack trace:
+[25-May-2017 12:18:24 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Processor/WebProcessorTest.php:0
+[10-Jun-2017 11:19:57 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-Jun-2017 11:19:57 America/Bogota] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Processor/MemoryUsageProcessorTest.php on line 17
+[10-Jun-2017 11:19:57 America/Bogota] PHP Stack trace:
+[10-Jun-2017 11:19:57 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/monolog/monolog/tests/Monolog/Processor/MemoryUsageProcessorTest.php:0

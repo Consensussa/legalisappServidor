@@ -1,0 +1,56 @@
+[26-May-2017 11:09:23 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 11:09:23 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\RequestInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php on line 44
+[26-May-2017 11:09:23 America/Bogota] PHP Stack trace:
+[26-May-2017 11:09:23 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php:0
+[26-May-2017 12:02:10 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 12:27:57 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 12:43:01 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 12:50:53 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 12:50:53 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ResponseInterface.php on line 21
+[26-May-2017 12:50:53 America/Bogota] PHP Stack trace:
+[26-May-2017 12:50:53 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ResponseInterface.php:0
+[26-May-2017 14:04:13 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 14:04:13 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/RequestInterface.php on line 25
+[26-May-2017 14:04:13 America/Bogota] PHP Stack trace:
+[26-May-2017 14:04:13 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/RequestInterface.php:0
+[26-May-2017 14:27:46 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 17:51:26 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 17:51:26 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\RequestInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php on line 44
+[26-May-2017 17:51:26 America/Bogota] PHP Stack trace:
+[26-May-2017 17:51:26 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php:0
+[26-May-2017 20:44:20 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 20:44:20 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ResponseInterface.php on line 21
+[26-May-2017 20:44:20 America/Bogota] PHP Stack trace:
+[26-May-2017 20:44:20 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ResponseInterface.php:0
+[26-May-2017 22:34:53 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-May-2017 22:34:53 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/RequestInterface.php on line 25
+[26-May-2017 22:34:53 America/Bogota] PHP Stack trace:
+[26-May-2017 22:34:53 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/RequestInterface.php:0
+[27-May-2017 00:18:25 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[27-May-2017 00:18:25 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\RequestInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php on line 44
+[27-May-2017 00:18:25 America/Bogota] PHP Stack trace:
+[27-May-2017 00:18:25 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php:0
+[27-May-2017 03:46:39 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[27-May-2017 03:46:39 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\RequestInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php on line 44
+[27-May-2017 03:46:39 America/Bogota] PHP Stack trace:
+[27-May-2017 03:46:39 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php:0
+[27-May-2017 04:15:27 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[27-May-2017 04:15:27 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ResponseInterface.php on line 21
+[27-May-2017 04:15:27 America/Bogota] PHP Stack trace:
+[27-May-2017 04:15:27 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ResponseInterface.php:0
+[27-May-2017 07:13:15 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[27-May-2017 07:13:15 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\RequestInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php on line 44
+[27-May-2017 07:13:15 America/Bogota] PHP Stack trace:
+[27-May-2017 07:13:15 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ServerRequestInterface.php:0
+[27-May-2017 08:58:44 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[27-May-2017 08:58:44 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/RequestInterface.php on line 25
+[27-May-2017 08:58:44 America/Bogota] PHP Stack trace:
+[27-May-2017 08:58:44 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/RequestInterface.php:0
+[28-May-2017 16:01:07 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[28-May-2017 16:01:07 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ResponseInterface.php on line 21
+[28-May-2017 16:01:07 America/Bogota] PHP Stack trace:
+[28-May-2017 16:01:07 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/ResponseInterface.php:0
+[28-May-2017 16:14:47 America/Bogota] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[28-May-2017 16:14:47 America/Bogota] PHP Fatal error:  Interface 'Psr\Http\Message\MessageInterface' not found in /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/RequestInterface.php on line 25
+[28-May-2017 16:14:47 America/Bogota] PHP Stack trace:
+[28-May-2017 16:14:47 America/Bogota] PHP   1. {main}() /home/legalisapp/public_html/legalisappServidor/vendor/psr/http-message/src/RequestInterface.php:0
